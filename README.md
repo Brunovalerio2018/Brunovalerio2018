@@ -25,7 +25,6 @@ Seja bem vindo ao meu perfil.
 - Desenvolvimento Full-Stack com React Native e Expo 📱
 - Integração de APIs e banco de dados em sistemas web 🌐
 - Metodologias Ágeis e boas práticas de programação 🛠️
-  /* - https://devicon.dev/ /*
 - <div>
    <a href="https://beacons.ai/brunovalerio2018"/>
    
