@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/Estudante-Análise%20e%20Desenvolvimento%20de%20Sistemas-blueviolet?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunovalerio2018&theme=radical" alt="Minha sequência de commits" />
+</p>
+
 ---
 
 ### 🌟 Sobre Mim
@@ -21,11 +25,25 @@
 #### **ConectaIF** 🌐  
 Sistema que facilita a comunicação entre instituições de ensino, estudantes e responsáveis.
 
-#### **StatusRacing** 🏎️  
+#### **ProjetoPitMonitor** 🏎️  
 Plataforma para acompanhar o status de pilotos virtuais no iRacing (em desenvolvimento).
 
 #### **Decolar** ✈️  
 Sistema de gerenciamento de voos com integração entre companhias aéreas (para fins de aprendizado).
+
+---
+
+### 📈 Meu Desempenho
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunovalerio2018&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+#### Linguagens Mais Utilizadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovalerio2018&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas" />
+</p>
 
 ---
 
@@ -58,7 +76,6 @@ Sistema de gerenciamento de voos com integração entre companhias aéreas (para
 
 - **Estágios & Experiência Profissional:**  
   - **Superior Tribunal Militar**: Suporte em redes Microsoft Windows, instalação/configuração de sistemas e periféricos.  
-  - Desenvolvimento e auditoria em segurança da informação.  
 
 ---
 
@@ -73,11 +90,11 @@ Sistema de gerenciamento de voos com integração entre companhias aéreas (para
 ### 📬 Entre em Contato
 
 <p align="center">
-  <a href="https://beacons.ai/brunovalerio2018" target="_blank">
-    <img src="https://img.shields.io/badge/Beacons.ai-purple?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  <a href="mailto:brunovalerio2018@gmail.com" target="_blank">
+  <a href="mailto:brunovaleriomachado2018@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Brunovalerio2018" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -85,4 +102,5 @@ Sistema de gerenciamento de voos com integração entre companhias aéreas (para
 
 <div align="center">
   <h3>⚡ Obrigado por visitar meu perfil! ⚡</h3>
+  <p>✨ **Siga-me e acompanhe meus projetos!** ✨</p>
 </div>
