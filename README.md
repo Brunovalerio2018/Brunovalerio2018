@@ -81,7 +81,7 @@ Sistema de gerenciamento de voos com integração entre companhias aéreas (para
 
 ### 🌱 Atualmente Estudando
 
-- Desenvolvimento **Full-Stack** com **React Native** e **Expo** 📱  
+- Desenvolvimento **Full-Stack** utilizando **Nest.js** e **Axios** com **React Native** e **Expo** 📱  
 - Integração de APIs e **PostgreSQL** em sistemas modernos 🌐  
 - Boas práticas em **Metodologias Ágeis** 🛠️  
 
