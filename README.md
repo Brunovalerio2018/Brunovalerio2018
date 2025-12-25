@@ -14,7 +14,7 @@
 
 ### 🌟 Sobre Mim
 
-- 🎓 **29 anos** | **6º semestre** em **Análise e Desenvolvimento de Sistemas** - **IFSUL**  
+- 🎓 **30 anos** | **finalizadoº formado ** em **Análise e Desenvolvimento de Sistemas** - **IFSUL**  
 - 💻 Apaixonado por tecnologia, programação e desenvolvimento de software  
 - 🚀 Sempre em busca de novos desafios e aprendizados no mundo da tecnologia  
 
