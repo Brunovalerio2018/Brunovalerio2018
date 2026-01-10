@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunovalerio2018&theme=radical" alt="Sequência de commits" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=brunovalerio2018&theme=radical"
+    alt="Sequência de commits"
+  />
 </p>
 
 ---
@@ -16,84 +19,87 @@
 
 Sou desenvolvedor apaixonado por tecnologia e por criar soluções práticas que gerem impacto real. Tenho foco em **desenvolvimento mobile e web**, sempre buscando boas práticas, código limpo e aprendizado contínuo.
 
-* 🎓 **Formação em Análise e Desenvolvimento de Sistemas – IFSUL**
-* 💻 Interesse em **Full Stack**, APIs, bancos de dados e arquitetura de software
-* 🚀 Motivado por desafios, projetos reais e evolução constante
+- 🎓 **Formação em Análise e Desenvolvimento de Sistemas – IFSUL**
+- 💻 Interesse em **Full Stack**, APIs, bancos de dados e arquitetura de software
+- 🚀 Motivado por desafios, projetos reais e evolução constante
 
 ---
 
 ## 🚧 Projetos em Destaque
 
 ### 🌐 **ConectaIF**
-
 **Sistema de comunicação educacional**
 
-* Facilita a comunicação entre **instituições de ensino, estudantes e responsáveis**
-* Centraliza avisos, informações acadêmicas e notificações
-* Foco em usabilidade, organização e acesso rápido às informações
+- Facilita a comunicação entre **instituições de ensino, estudantes e responsáveis**
+- Centraliza avisos, informações acadêmicas e notificações
+- Foco em usabilidade, organização e acesso rápido às informações
 
 **Tecnologias:** React / Firebase / Node.js
 
 ---
 
 ### 🏎️ **ProjetoPitMonitor** *(em desenvolvimento)*
-
 **Monitoramento de pilotos virtuais – iRacing**
 
-* Plataforma para acompanhar o **status de pilotos virtuais em tempo real**
-* Exibição de dados como sessões, desempenho e atividades
-* Projeto voltado para aprendizado de **APIs, integrações e dados em tempo real**
+- Plataforma para acompanhar o **status de pilotos virtuais em tempo real**
+- Exibição de sessões, desempenho e atividades
+- Projeto voltado para aprendizado de **APIs e dados em tempo real**
 
 **Tecnologias:** Node.js / APIs / PostgreSQL
 
 ---
 
 ### 🏁 **Melissa Competições**
-
 **Plataforma estatística para equipe de automobilismo virtual**
 
-* Site estatístico voltado à **análise de desempenho da equipe Melissa Competições**
-* Exibição de dados de corridas, pilotos, resultados e histórico
-* Projeto **sem login**, focado em performance, visual limpo e dados objetivos
+- Site estatístico focado na **análise de desempenho da equipe**
+- Dados de corridas, pilotos, resultados e histórico
+- Projeto **sem login**, priorizando performance e visual limpo
 
 **Tecnologias:** React / Node.js / PostgreSQL
 
 ---
 
 ### 🤖 **BJria** *(em desenvolvimento)*
+**Sistema inteligente com foco em automação**
 
-**Sistema inteligente com foco em automação e aprendizado**
-
-* Projeto desenvolvido em conjunto, com foco em **integrações, lógica de negócio e IA**
-* Explora automações, consumo de APIs e organização de dados
-* Voltado para evolução técnica e experimentação de novas tecnologias
+- Projeto colaborativo com foco em **lógica de negócio e integrações**
+- Consumo de APIs, automações e organização de dados
+- Voltado para experimentação e evolução técnica
 
 **Tecnologias:** Node.js / APIs / Banco de Dados
 
 ---
 
 ### ✈️ **Decolar**
-
 **Sistema de gerenciamento de voos (educacional)**
 
-* Simula a integração entre **companhias aéreas e voos**
-* Controle de rotas, horários e informações de voo
-* Projeto desenvolvido com foco em **modelagem de dados e lógica de negócio**
+- Simula integração entre **companhias aéreas**
+- Controle de rotas, horários e informações de voo
+- Foco em **modelagem de dados e arquitetura**
 
-**Tecnologias:** SQL / Backend / Arquitetura de Sistemas
+**Tecnologias:** SQL / Backend
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunovalerio2018&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brunovalerio2018&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
+  />
 </p>
 
-### 🧠 Linguagens Mais Utilizadas
+---
+
+## 🧠 Linguagens Mais Utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovalerio2018&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovalerio2018&layout=compact&theme=radical"
+    alt="Linguagens Mais Utilizadas"
+  />
 </p>
 
 ---
@@ -101,59 +107,52 @@ Sou desenvolvedor apaixonado por tecnologia e por criar soluções práticas que
 ## 🛠️ Habilidades Técnicas
 
 ### 💻 Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Frameworks & Tecnologias
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🎓 Experiência Acadêmica & Profissional
 
 ### 📚 Formação Acadêmica
-
-* **Análise e Desenvolvimento de Sistemas – IFSUL**
-* Desenvolvimento de projetos utilizando **React Native, Firebase e PostgreSQL**
+- **Análise e Desenvolvimento de Sistemas – IFSUL**
+- Projetos com **React Native, Firebase e PostgreSQL**
 
 ### 💼 Experiência Profissional
-
-* **Superior Tribunal Militar**
-
-  * Suporte em redes Microsoft Windows
-  * Instalação e configuração de sistemas, periféricos e ambientes computacionais
+- **Superior Tribunal Militar**
+  - Suporte em redes Microsoft Windows
+  - Instalação e configuração de sistemas e periféricos
 
 ---
 
 ## 🌱 Em Aprendizado Contínuo
-
-* Desenvolvimento **Full Stack** com **NestJS** e **Axios**
-* Aplicações mobile com **React Native** e **Expo** 📱
-* Integração de APIs e bancos de dados **PostgreSQL**
-* Boas práticas, versionamento e **Metodologias Ágeis**
+- **Full Stack** com **NestJS** e **Axios**
+- **React Native** e **Expo**
+- Integração de **APIs** e **PostgreSQL**
+- Versionamento e **Metodologias Ágeis**
 
 ---
 
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:brunovaleriomachado2018@gmail.com" target="_blank">
+  <a href="mailto:brunovaleriomachado2018@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Brunovalerio2018" target="_blank">
+  <a href="https://github.com/Brunovalerio2018">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
